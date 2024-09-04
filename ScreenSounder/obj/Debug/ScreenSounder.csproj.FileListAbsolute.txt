@@ -1,0 +1,7 @@
+D:\Documentos\Dev\Alura\C#\ScreenSounder\ScreenSounder\bin\Debug\ScreenSounder.exe.config
+D:\Documentos\Dev\Alura\C#\ScreenSounder\ScreenSounder\bin\Debug\ScreenSounder.exe
+D:\Documentos\Dev\Alura\C#\ScreenSounder\ScreenSounder\bin\Debug\ScreenSounder.pdb
+D:\Documentos\Dev\Alura\C#\ScreenSounder\ScreenSounder\obj\Debug\ScreenSounder.csproj.AssemblyReference.cache
+D:\Documentos\Dev\Alura\C#\ScreenSounder\ScreenSounder\obj\Debug\ScreenSounder.csproj.CoreCompileInputs.cache
+D:\Documentos\Dev\Alura\C#\ScreenSounder\ScreenSounder\obj\Debug\ScreenSounder.exe
+D:\Documentos\Dev\Alura\C#\ScreenSounder\ScreenSounder\obj\Debug\ScreenSounder.pdb
